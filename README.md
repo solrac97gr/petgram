@@ -1,19 +1,16 @@
-<p align="center"><a href="https://iheysolver.me/" target="_blank" rel="noopener noreferrer">
-<img src="https://i.imgur.com/uacZyDJ.png" alt="drawing" width="200"/></a></p>
+<p align="center"><a href="https://petgram-front-carlosg.carlosgarcia97gr.now.sh/" target="_blank" rel="noopener noreferrer">
+<img src="https://i.imgur.com/OqFNwVy.png" alt="drawing" width="200"/></a></p>
 
 <p align="center">
   <a href="https://img.shields.io/npm/v/npm"><img src="https://img.shields.io/npm/v/vue.svg" alt="Version"></a> 
 </p>
 
-<h2 align="center">HeySolve | Technicians at home in Lima | Developing...</h2>
+<h2 align="center">Petgram | The app that nobody needed| Developing...</h2>
 
-This project is focused on being a centralized workforce search platform for home repair work.
-It is being developed in React.Js for the part of the frontend that is the current repository, Redux is also being used as a global state manager and React Router as a route manager.
+I carry out this project with educational reasons to implement develop using only react arrow function components and hooks. I also use graphql and apollo.
 
 
-<p align="center"><img src="https://i.imgur.com/ZRtE1xy.png" width="400" /></p>
-
-<p align="center"><img src="https://i.imgur.com/I3UTRJm.png" width="200" /><img src="https://i.imgur.com/UB47cGK.png" width="200" /></p>
+<p align="center"><img src="https://i.imgur.com/fmkLaS2.png" width="200" /><img src="https://i.imgur.com/5xHzM1Z.png" width="200" /><img src="https://i.imgur.com/xuZ92Fe.png" width="200" /><img src="https://i.imgur.com/6PfhGLe.png" width="200" /></p>
 
 ## Available Scripts
 
