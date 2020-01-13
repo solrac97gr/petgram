@@ -30,7 +30,6 @@ export const PhotoCard = ({ id, likes = 0, src = DEFAULT_IMAGE }) => {
           </Link>
           <ToggleLikeMutation>
             {toggleLike => {
-              console.log('cambio random')
               const handleFavClick = () => {
                 !liked && toggleLike({
                   variables: {
