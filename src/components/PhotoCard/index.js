@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from '@reach/router'
 /* Hooks */
 import { useLocalStorage } from '../../hooks/useLocalStorage'
 import { useNearScreen } from '../../hooks/useNearScreen'
@@ -22,13 +23,14 @@ export const PhotoCard = ({ id, likes = 0, src = DEFAULT_IMAGE }) => {
     <Article ref={element}>
       {show && (
         <>
-          <a href={`/?detail=${id}`}>
+          <Link to={`/detail/${id}`}>
             <ImgWrapper>
               <Img src={src} alt='imagen' />
             </ImgWrapper>
-          </a>
+          </Link>
           <ToggleLikeMutation>
             {toggleLike => {
+              console.log('cambio random')
               const handleFavClick = () => {
                 !liked && toggleLike({
                   variables: {

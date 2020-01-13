@@ -1,4 +1,5 @@
 export default {
   home: '/',
-  category: '/pet/:id'
+  category: '/pet/:id',
+  detail: '/detail/:detailId'
 }
