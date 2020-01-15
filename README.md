@@ -10,7 +10,7 @@
 I carry out this project with educational reasons to implement develop using only react arrow function components and hooks. I also use graphql and apollo.
 
 
-<p align="center"><img src="https://i.imgur.com/fmkLaS2.png" width="200" /><img src="https://i.imgur.com/5xHzM1Z.png" width="200" /><img src="https://i.imgur.com/xuZ92Fe.png" width="200" /><img src="https://i.imgur.com/6PfhGLe.png" width="200" /></p>
+<p align="center"><img src="https://i.imgur.com/fmkLaS2.png" width="200" /><img src="https://i.imgur.com/TwuDXCA.png" width="200" /><img src="https://i.imgur.com/xuZ92Fe.png" width="200" /><img src="https://i.imgur.com/6PfhGLe.png" width="200" /></p>
 
 ## Available Scripts
 
