@@ -38,8 +38,8 @@ export const skeletonAnimation = ({
   fill = 'forwards',
   iteration = 'infinite',
   timingFunction = 'linear',
-  colorBackground = '#f6f7f8',
-  colorAnimation = '#edeef1'
+  colorBackground = '#edeef1',
+  colorAnimation = '#f6f7f8'
 } = {}) =>
   css`
     animation-duration: ${time};
